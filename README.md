@@ -2,6 +2,10 @@
 
 A simple PHP wrapper for the Twitter V2 API.
 
+[![Latest Stable Version](http://img.shields.io/packagist/v/espresso-dev/twitter.svg?style=flat)](https://packagist.org/packages/espresso-dev/twitter)
+[![License](https://img.shields.io/packagist/l/espresso-dev/twitter.svg?style=flat)](https://packagist.org/packages/espresso-dev/twitter)
+[![Total Downloads](http://img.shields.io/packagist/dt/espresso-dev/twitter.svg?style=flat)](https://packagist.org/packages/espresso-dev/twitter)
+
 ## Requirements
 
 - PHP 5.6 or higher
